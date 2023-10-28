@@ -1,5 +1,8 @@
+import multiprocessing
+
 import streamlit as st
 
+import background
 
 # set basic page config
 st.set_page_config(page_title="Streamlit Template",
