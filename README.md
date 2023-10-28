@@ -2,9 +2,7 @@
 
 [![Streamlit](https://img.shields.io/badge/Go%20To-Streamlit%20Cloud-red?logo=streamlit)](https://streamlit.io/)
 
-Streamlit template project for new streamlit projects.
-
-## *How to use this template project see in the [Usage.md](Usage.md) file*
+Streamlit demo project to test streamlit together with python subprocess.
 
 ## Description ✏️
 
@@ -12,15 +10,16 @@ Streamlit template project for new streamlit projects.
 
 ## Status ✔️
 
-> Last changed: 2023-08-07
+- Work in progress, not finished
+- Last changed: 2023-10-28
 
-## Issues 🚩
+## Issues 🐛
 
 > Describe known issues here.
 
 ## ToDo ☑️
 
-> Describe open ToDo's here.
+- [ ] Write first example
 
 ## Resources 📚
 
